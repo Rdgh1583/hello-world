@@ -8,5 +8,5 @@ Rommel out.
 
 local development 
 
-!. open index.js
+!. open index.js lol 
 
